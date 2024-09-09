@@ -11,6 +11,7 @@ Power BI: Utilized for creating interactive dashboards and visualizing the data 
 
 # Key Take Aways:
 1) Loan Applications
+
 •	The total number of loan applications is 39.7K.
 
 •	Nearly half (48%) of these applications are verified, while the remaining 52% are unverified.
@@ -18,15 +19,20 @@ Power BI: Utilized for creating interactive dashboards and visualizing the data 
 •	Consider optimizing the verification process to reduce unverified applications and improve efficiency.
 
 2) Average Interest Rate
+
 •	New customers receive loans at an average interest rate of 12.02%.
 
 •	Repeat customers have a slightly higher average interest rate of 13.32%.
 
 3) Homeownership Insights
+
 •	Most homeowners are maintaining timely payments (“current” status).
 
 •	A smaller portion falls into the “non-payment” category.
+
 4) Risk Management
+
 •	Monitor the payment status closely. The high percentage of “current” payments is positive, but keep an eye on the 17.1% in the “non-payment” category.
+
 # Conclusion:
 This project demonstrates the use of MySQL for data analysis, and Power BI for visualization. The KPIs provide valuable insights into loan performance, borrower characteristics, and other critical factors that can aid in decision-making processes.
